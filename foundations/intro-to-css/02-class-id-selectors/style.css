@@ -1,1 +1,21 @@
-/* Add CSS Styling */
+.First {
+    background-color:rgb(242, 93, 172);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#Second {
+    font-size: 36px;
+    color:blue;
+}
+.Third {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(242, 93, 172);
+    font-size: 24px;
+}
+#Fourth {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: rgb(145, 247, 146);
+}
+.Bigger {
+    font-size: 24px;
+}
