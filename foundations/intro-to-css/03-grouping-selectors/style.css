@@ -1,1 +1,11 @@
-/* Add CSS Styling */
+.BIG-CLICKA {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', serif, sans-serif;
+}
+.BIG-CLICKA-YELLA {
+    background-color: yellow;
+}
+.BIG-CLICKA-BLACK {
+    color: white;
+    background-color: black;
+}
